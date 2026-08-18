@@ -1,269 +1,409 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0F172A,100:1D4ED8&height=220&section=header&text=Rushang%20Jagtap&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=B.Tech%20CSE%20%7C%20Full-Stack%20Developer%20%7C%20IoT%20Enthusiast&descAlignY=60&descSize=18&animation=fadeIn" width="100%" alt="Rushang Jagtap profile header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:0F172A,75:172554,100:2563EB&height=230&section=header&text=RUSHANG%20JAGTAP&fontSize=52&fontColor=FFFFFF&fontAlignY=35&desc=FULL-STACK%20DEVELOPER%20%7C%20IOT%20ENGINEER%20%7C%20PROBLEM%20SOLVER&descAlignY=58&descSize=16&animation=fadeIn" alt="Rushang Jagtap"/>
 
-# Hi, I'm **Rushang Jagtap**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+real-world+software+%26+IoT+systems;Full-Stack+Development+%7C+ESP32+%7C+Cloud;Turning+ideas+into+working+products;Always+learning.+Always+building." alt="Typing introduction"/>
 
-### B.Tech CSE (Microsoft) · Full-Stack Developer · IoT Enthusiast
+<br>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Rushang2005&label=Profile%20Views&color=1D4ED8&style=flat-square" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/Rushang2005?label=Followers&style=flat-square&color=1D4ED8" alt="GitHub followers"/>
-</p>
+<a href="https://github.com/Rushang2005">
+<img src="https://img.shields.io/badge/GITHUB-020617?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
+</a>
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn"/>
+</a>
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/PORTFOLIO-0F172A?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" alt="Portfolio"/>
+</a>
+<a href="mailto:YOUR_EMAIL@example.com">
+<img src="https://img.shields.io/badge/CONTACT-020617?style=for-the-badge&logo=gmail&logoColor=38BDF8" alt="Email"/>
+</a>
 
-<p>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" alt="Portfolio"/>
-  </a>
-  <a href="mailto:YOUR_EMAIL@example.com">
-    <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=38BDF8" alt="Email"/>
-  </a>
-</p>
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Rushang2005&label=PROFILE%20VIEWS&color=2563EB&style=flat-square" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/Rushang2005?label=FOLLOWERS&style=flat-square&color=2563EB" alt="GitHub followers"/>
 
 </div>
 
 ---
 
-## `> whoami`
+## `01 // SYSTEM.IDENTITY`
 
-I'm a **Computer Science Engineering student at Parul University** specializing in the Microsoft-oriented CSE program, with a strong interest in **full-stack development, IoT systems and modern software engineering**.
+```text
+┌─────────────────────────────────────────────────────────────────┐
+│                         RUSHANG JAGTAP                          │
+├─────────────────────────────────────────────────────────────────┤
+│                                                                 │
+│  ROLE        →  Full-Stack Developer / IoT Enthusiast          │
+│  EDUCATION   →  B.Tech CSE (Microsoft)                         │
+│  UNIVERSITY  →  Parul University                                │
+│  LOCATION    →  India                                           │
+│                                                                 │
+│  FOCUS       →  Web Applications                                │
+│               →  IoT & ESP32                                    │
+│               →  Cloud / Firebase                               │
+│               →  AI & Modern Technologies                       │
+│               →  Software Engineering                           │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
 
-I enjoy taking an idea from **concept → architecture → development → deployment** and turning it into something people can actually use.
+> I build practical technology solutions that connect **software, cloud and hardware**.
+
+I'm a Computer Science Engineering student focused on developing real-world applications, full-stack systems, developer tools and IoT solutions.
+
+I enjoy taking an idea from:
+
+`IDEA` → `ARCHITECTURE` → `CODE` → `TEST` → `DEPLOY` → `IMPROVE`
+
+---
+
+## `02 // ENGINEERING.STACK`
+
+### `LANGUAGES`
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css" alt="Java Python JavaScript HTML CSS"/>
+
+</div>
+
+### `FRONTEND`
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react" alt="HTML CSS JavaScript React"/>
+
+</div>
+
+### `BACKEND`
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express" alt="Node.js Express"/>
+
+</div>
+
+### `DATABASE / CLOUD`
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql" alt="Firebase MongoDB MySQL"/>
+
+</div>
+
+### `IOT / HARDWARE`
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=arduino,git,github,vscode" alt="Arduino Git GitHub VS Code"/>
+
+</div>
+
+```text
+SOFTWARE
+   │
+   ├── Frontend ─────── HTML / CSS / JavaScript / React
+   │
+   ├── Backend ──────── Node.js / Express / REST APIs
+   │
+   ├── Data ─────────── Firebase / MongoDB / SQL
+   │
+   └── Tools ────────── Git / GitHub / VS Code
+                         │
+                         ▼
+                      HARDWARE
+                         │
+                  ┌──────┴──────┐
+                  │             │
+                ESP32        Arduino
+                  │
+               Sensors
+                  │
+                  ▼
+              IoT Systems
+```
+
+---
+
+# `03 // PROJECTS.exe`
+
+### `⚡ CORE-PRO`
+
+```text
+PROJECT TYPE    →  IoT / Industrial Monitoring
+PLATFORM        →  ESP32
+DOMAIN          →  Petroleum Pipeline Monitoring
+STATUS          →  Development / Experimentation
+```
+
+**CORE-PRO** is an ESP32-based petroleum pipeline sand detection and monitoring concept using sensors, real-time monitoring, alerts and cloud integration.
+
+**Core Components**
+
+`ESP32` `Sensors` `Firebase` `Real-Time Monitoring` `Alerts`
+
+**Highlights**
+
+* Sensor-based monitoring
+* Sand detection concept
+* Real-time data
+* Alert mechanism
+* Cloud integration
+* Monitoring interface
+
+**Repository**
+
+[→ VIEW CORE-PRO](YOUR_CORE_PRO_REPOSITORY_URL)
+
+---
+
+### `▣ QR-FILE-SHARE`
+
+```text
+PROJECT TYPE    →  Developer Tool
+INTERFACE       →  Web
+PURPOSE         →  Device-to-Device File Transfer
+FOCUS           →  Fast & Simple Sharing
+```
+
+A QR-based file-sharing application designed to make device-to-device transfer simple through a modern browser-based workflow.
+
+**Core Technologies**
+
+`JavaScript` `HTML` `CSS` `Node.js` `WebRTC`
+
+**Highlights**
+
+* QR-based device connection
+* Browser-based transfer
+* Responsive interface
+* Device-to-device workflow
+* Large-file transfer focus
+
+**Repository**
+
+[→ VIEW QR FILE SHARE](YOUR_QR_FILE_SHARE_REPOSITORY_URL)
+
+---
+
+### `<> RUSHANG.PORTFOLIO`
+
+```text
+PROJECT TYPE    →  Personal Developer Portfolio
+PURPOSE         →  Personal Branding
+FOCUS           →  Projects / Skills / Development
+```
+
+My personal developer portfolio for presenting my technical work, projects, skills and development journey.
+
+**Technologies**
+
+`HTML` `CSS` `JavaScript`
+
+**Repository**
+
+[→ VIEW PORTFOLIO REPOSITORY](YOUR_PORTFOLIO_REPOSITORY_URL)
+
+**Live**
+
+[→ OPEN PORTFOLIO](YOUR_PORTFOLIO_URL)
+
+---
+
+## `04 // WHAT.I.BUILD`
 
 ```text
 ┌─────────────────────────────────────────────────────────────┐
 │                                                             │
-│  🎓  B.Tech CSE (Microsoft)       Parul University          │
+│  WEB SYSTEMS                                                │
+│  ├── Full-stack applications                               │
+│  ├── Responsive interfaces                                  │
+│  ├── Admin dashboards                                       │
+│  └── Database-driven systems                                │
 │                                                             │
-│  💻  Full-Stack Development        Web Applications         │
+│  DEVELOPER TOOLS                                            │
+│  ├── File-sharing systems                                   │
+│  ├── Productivity tools                                     │
+│  └── Practical web utilities                                │
 │                                                             │
-│  ⚡  IoT & ESP32                   Connected Systems        │
+│  IOT SYSTEMS                                                │
+│  ├── ESP32 applications                                     │
+│  ├── Arduino projects                                       │
+│  ├── Sensor monitoring                                      │
+│  └── Real-time connected systems                            │
 │                                                             │
-│  ☁️  Cloud & Firebase              Real-Time Applications   │
-│                                                             │
-│  🤖  AI & Modern Technologies      Intelligent Solutions    │
-│                                                             │
-│  🧩  Problem Solving               Practical Engineering    │
+│  CLOUD                                                       │
+│  ├── Firebase                                               │
+│  ├── Real-time data                                         │
+│  └── Connected applications                                 │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-# `01` · Tech Stack
+# `05 // GITHUB.TERMINAL`
 
-### Languages
+```bash
+$ whoami
+Rushang2005
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css" alt="Java Python JavaScript HTML CSS"/>
-</p>
+$ education
+B.Tech Computer Science Engineering (Microsoft)
 
-### Frontend
+$ university
+Parul University
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react" alt="HTML CSS JavaScript React"/>
-</p>
+$ primary_stack
+Java | Python | JavaScript | React | Node.js | Firebase
 
-### Backend
+$ hardware
+ESP32 | Arduino | Sensors
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" alt="Node.js Express"/>
-</p>
+$ mindset
+BUILD > TEST > LEARN > IMPROVE
 
-### Database & Cloud
-
-<p>
-<img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql" alt="Firebase MongoDB SQL"/>
-</p>
-
-### IoT & Development Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=arduino,git,github,vscode" alt="Arduino Git GitHub VS Code"/>
-</p>
-
----
-
-# `02` · Featured Projects
-
-<div align="center">
-
-### ⚡ CORE-PRO
-
-**ESP32-based petroleum pipeline sand detection & monitoring system**
-
-A practical IoT solution designed around sensor-based monitoring, real-time data, alerts and cloud integration.
-
-`ESP32` `IoT` `Sensors` `Firebase` `JavaScript`
-
-**Key Features**
-
-* Real-time sensor monitoring
-* Sand detection concept
-* Alert system
-* Cloud-connected data
-* Monitoring dashboard
-* ESP32-based hardware
-
-[**View Repository →**](YOUR_CORE_PRO_REPOSITORY_URL)
-
----
-
-### `QR` QR File Share
-
-**QR-based device-to-device file sharing application**
-
-A modern file-sharing application designed to simplify connecting devices and transferring files through a browser-based experience.
-
-`JavaScript` `HTML` `CSS` `Node.js` `WebRTC`
-
-**Key Features**
-
-* QR-based connection
-* Device-to-device transfer
-* Browser-based workflow
-* Responsive interface
-* Large-file transfer focus
-
-[**View Repository →**](YOUR_QR_FILE_SHARE_REPOSITORY_URL)
-
----
-
-### `</>` Rushang Portfolio
-
-**Personal developer portfolio**
-
-A modern portfolio designed to showcase my projects, technical skills, development journey and experiments.
-
-`HTML` `CSS` `JavaScript`
-
-**Focus**
-
-* Modern developer UI
-* Project showcase
-* Responsive design
-* Personal branding
-* Interactive experience
-
-[**View Repository →**](YOUR_PORTFOLIO_REPOSITORY_URL) · [**Live Website →**](YOUR_PORTFOLIO_URL)
-
-</div>
-
----
-
-# `03` · What I Build
-
-<div align="center">
-
-| Area                | Focus                                        |
-| ------------------- | -------------------------------------------- |
-| **Full-Stack**      | Modern web applications & complete systems   |
-| **Frontend**        | Responsive and interactive interfaces        |
-| **Backend**         | APIs, server-side applications & databases   |
-| **IoT**             | ESP32, Arduino & sensor-based systems        |
-| **Cloud**           | Firebase & connected applications            |
-| **AI**              | Exploring AI-powered application experiences |
-| **Developer Tools** | Useful tools that solve practical problems   |
-
-</div>
-
----
-
-# `04` · GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Rushang2005&show_icons=true&hide_border=true&bg_color=020617&title_color=FFFFFF&text_color=CBD5E1&icon_color=38BDF8&ring_color=1D4ED8" height="180" alt="Rushang GitHub statistics"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rushang2005&layout=compact&hide_border=true&bg_color=020617&title_color=FFFFFF&text_color=CBD5E1&icon_color=38BDF8" height="180" alt="Rushang most used programming languages"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Rushang2005&hide_border=true&background=020617&ring=2563EB&fire=38BDF8&currStreakLabel=FFFFFF&sideLabels=CBD5E1&dates=64748B&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Rushang GitHub contribution streak"/>
-
-</div>
-
----
-
-# `05` · Currently Building & Learning
-
-```text
-FULL-STACK DEVELOPMENT    ████████████████████
-CLOUD TECHNOLOGIES        ██████████████████░░
-AI INTEGRATION            ████████████████░░░░
-IoT SYSTEMS               ██████████████████░░
-MODERN WEB TECHNOLOGIES   ███████████████████░
-SOFTWARE ENGINEERING      ██████████████████░░
+$ current_status
+Learning + Building
 ```
 
-### Current Direction
-
-> Building practical software, experimenting with connected systems and continuously improving my engineering fundamentals.
-
 ---
 
-# `06` · Certifications
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/IT%20Specialist-Pearson-0F172A?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" alt="IT Specialist certification"/>
-
-<img src="https://img.shields.io/badge/Web%20Development-Parul%20University-0F172A?style=for-the-badge&logo=html5&logoColor=38BDF8" alt="Web development certification"/>
-
-<img src="https://img.shields.io/badge/Startup%20Bootcamp-Parul%20University-0F172A?style=for-the-badge&logo=rocket&logoColor=38BDF8" alt="Startup Bootcamp certification"/>
-
-</p>
-
----
-
-# `07` · Developer Mindset
+## `06 // GITHUB.ANALYTICS`
 
 <div align="center">
 
-### **Build → Break → Learn → Improve → Repeat**
+<img src="https://github-readme-stats.vercel.app/api?username=Rushang2005&show_icons=true&hide_border=true&bg_color=020617&title_color=FFFFFF&text_color=94A3B8&icon_color=38BDF8&include_all_commits=true" height="180" alt="Rushang GitHub statistics"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rushang2005&layout=compact&hide_border=true&bg_color=020617&title_color=FFFFFF&text_color=94A3B8" height="180" alt="Rushang most used languages"/>
+
+</div>
 
 <br>
 
-I believe the best way to learn technology is to **build real things**.
+<div align="center">
 
-<br>
-
-**Ideas become projects.**
-**Projects become experience.**
-**Experience becomes engineering.**
+<img src="https://streak-stats.demolab.com?user=Rushang2005&hide_border=true&background=020617&ring=2563EB&fire=38BDF8&currStreakLabel=FFFFFF&sideLabels=94A3B8&dates=64748B&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Rushang GitHub contribution streak"/>
 
 </div>
 
 ---
 
-# `08` · Let's Connect
+# `07 // ACTIVITY.MATRIX`
 
 <div align="center">
 
-I'm always interested in connecting with developers, recruiters, builders and people working on interesting technology.
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rushang2005&bg_color=020617&color=CBD5E1&line=2563EB&point=38BDF8&area=true&hide_border=true" width="100%" alt="Rushang GitHub activity graph"/>
+
+</div>
+
+---
+
+# `08 // CURRENT.PROCESS`
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                    CURRENTLY EXPLORING                      ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  [01] Full-Stack Development        ████████████████████    ║
+║  [02] Cloud Technologies            ██████████████████░░    ║
+║  [03] AI Integration                ████████████████░░░░    ║
+║  [04] IoT Systems                   ██████████████████░░    ║
+║  [05] Modern Web Technologies       ███████████████████░   ║
+║  [06] Software Engineering          ██████████████████░░    ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+---
+
+# `09 // CERTIFICATIONS`
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/IT%20SPECIALIST-PEARSON-020617?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" alt="IT Specialist certification"/>
+
+<img src="https://img.shields.io/badge/WEB%20DEVELOPMENT-PARUL%20UNIVERSITY-020617?style=for-the-badge&logo=html5&logoColor=38BDF8" alt="Web development certification"/>
+
+<img src="https://img.shields.io/badge/STARTUP%20BOOTCAMP-PARUL%20UNIVERSITY-020617?style=for-the-badge&logo=rocket&logoColor=38BDF8" alt="Startup Bootcamp certification"/>
+
+</div>
+
+---
+
+# `10 // ENGINEERING.MINDSET`
+
+<div align="center">
+
+```text
+          ┌───────────┐
+          │   IDEA    │
+          └─────┬─────┘
+                │
+                ▼
+        ┌───────────────┐
+        │  ARCHITECTURE │
+        └───────┬───────┘
+                │
+                ▼
+          ┌──────────┐
+          │   CODE   │
+          └────┬─────┘
+               │
+               ▼
+          ┌──────────┐
+          │   TEST   │
+          └────┬─────┘
+               │
+               ▼
+         ┌────────────┐
+         │  DEPLOY    │
+         └─────┬──────┘
+               │
+               ▼
+          ┌─────────┐
+          │ IMPROVE │
+          └────┬────┘
+               │
+               └───────────────► REPEAT
+```
+
+### **Build real things. Learn from them. Make them better.**
+
+</div>
+
+---
+
+# `11 // CONNECT`
+
+<div align="center">
+
+### Interested in technology, collaboration or interesting projects?
 
 <br>
 
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn"/>
 </a>
 
 <a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-020617?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" alt="Portfolio"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-020617?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" alt="Portfolio"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL@example.com">
-<img src="https://img.shields.io/badge/Email-020617?style=for-the-badge&logo=gmail&logoColor=38BDF8" alt="Email"/>
+<img src="https://img.shields.io/badge/EMAIL-020617?style=for-the-badge&logo=gmail&logoColor=38BDF8" alt="Email"/>
 </a>
 
 <a href="https://github.com/Rushang2005">
-<img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GITHUB-020617?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
 </a>
+
+<br><br>
+
+`BUILDING`  •  `LEARNING`  •  `CREATING`
 
 </div>
 
@@ -271,10 +411,6 @@ I'm always interested in connecting with developers, recruiters, builders and pe
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D4ED8,50:0F172A,100:020617&height=120&section=footer" width="100%" alt="Profile footer"/>
-
-### `Building · Learning · Creating`
-
-<sub>Rushang Jagtap · B.Tech CSE (Microsoft) · Parul University</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,45:172554,75:0F172A,100:020617&height=140&section=footer&animation=fadeIn" width="100%" alt="Profile footer"/>
 
 </div>
